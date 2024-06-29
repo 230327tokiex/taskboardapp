@@ -2,7 +2,7 @@
   "name": "task-management-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://230327tokiex.github.io/taskboardapp",
+  "homepage": ".",
   "dependencies": {
     "@radix-ui/react-dialog": "^1.1.1",
     "@radix-ui/react-progress": "^1.1.0",
